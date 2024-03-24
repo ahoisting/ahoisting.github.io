@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Glass RSS Feed]]></title><description><![CDATA[A solid grasp of hoisting is essential for any JavaScript developer.]]></description><link>https://ahoisting.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 17 Mar 2024 14:17:25 GMT</lastBuildDate><item><title><![CDATA[About Mee]]></title><description><![CDATA[Hey there, what’s up? aHoisting is a tech blog created with the sole purpose of explaining complex tech in a simple and concise way thus…]]></description><link>https://ahoisting.com/about/</link><guid isPermaLink="false">https://ahoisting.com/about/</guid><content:encoded>&lt;h1&gt;Hey there, what’s up?&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Glass RSS Feed]]></title><description><![CDATA[A solid grasp of hoisting is essential for any JavaScript developer.]]></description><link>https://ahoisting.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 24 Mar 2024 15:24:50 GMT</lastBuildDate><item><title><![CDATA[About Mee]]></title><description><![CDATA[Hey there, what’s up? aHoisting is a tech blog created with the sole purpose of explaining complex tech in a simple and concise way thus…]]></description><link>https://ahoisting.com/about/</link><guid isPermaLink="false">https://ahoisting.com/about/</guid><content:encoded>&lt;h1&gt;Hey there, what’s up?&lt;/h1&gt;
 &lt;p&gt;aHoisting is a tech blog created with the sole purpose of explaining complex tech in a simple and concise way thus creating value for budding developers out there.&lt;/p&gt;
 &lt;p&gt;Here you will find blogs on the latest tech, tutorials on programming languages, explanations to data structure and algorithm concepts and questions, and much more… So stay tuned!!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Contact Me]]></title><description><![CDATA[Get in Touch. If you’ve got an inquiry for a job or project,drop me a line at hello@hello.com or fill the form right here.]]></description><link>https://ahoisting.com/contact/</link><guid isPermaLink="false">https://ahoisting.com/contact/</guid><content:encoded>&lt;h1&gt;Get in Touch.&lt;/h1&gt;
 &lt;p&gt;If you’ve got an inquiry for a job or project,drop me a line at &lt;a href=&quot;mailto:hello@hello.com&quot;&gt;hello@hello.com&lt;/a&gt; or fill the form right here.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Disclaimer]]></title><description><![CDATA[Welcome to aHoisting! All the information on this website - https://aHoisting.com/ - is published in good faith and for general information…]]></description><link>https://ahoisting.com/disclaimer/</link><guid isPermaLink="false">https://ahoisting.com/disclaimer/</guid><content:encoded>&lt;p&gt;Welcome to aHoisting!&lt;/p&gt;
@@ -9,7 +9,60 @@
 &lt;p&gt;By using our website, you hereby consent to our disclaimer and agree to its terms.&lt;/p&gt;
 &lt;h2&gt;Update&lt;/h2&gt;
 &lt;p&gt;Should we update, amend or make any changes to this document, those changes will be prominently posted here.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Home]]></title><description><![CDATA[aHoisting A solid grasp of hoisting is essential for any JavaScript developer.]]></description><link>https://ahoisting.com/</link><guid isPermaLink="false">https://ahoisting.com/</guid><content:encoded>&lt;h1&gt;aHoisting&lt;/h1&gt;
-&lt;p&gt;A solid grasp of hoisting is essential for any JavaScript developer.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Terms and Conditions]]></title><description><![CDATA[Welcome to aHoisting! These terms and conditions outline the rules and regulations for the use of aHoisting’s Website, located at https…]]></description><link>https://ahoisting.com/terms-and-conditions/</link><guid isPermaLink="false">https://ahoisting.com/terms-and-conditions/</guid><content:encoded>&lt;p&gt;Welcome to aHoisting!&lt;/p&gt;
+&lt;p&gt;A solid grasp of hoisting is essential for any JavaScript developer.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Privacy Policy]]></title><description><![CDATA[Welcome to aHoisting! At aHoisting, accessible from https://aHoisting.com/, one of our main priorities is the privacy of our visitors. This…]]></description><link>https://ahoisting.com/privacy-policy/</link><guid isPermaLink="false">https://ahoisting.com/privacy-policy/</guid><content:encoded>&lt;p&gt;Welcome to aHoisting!&lt;/p&gt;
+&lt;p&gt;At aHoisting, accessible from &lt;a href=&quot;https://aHoisting.com/&quot;&gt;https://aHoisting.com/&lt;/a&gt;, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by aHoisting and how we use it.&lt;/p&gt;
+&lt;p&gt;If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.&lt;/p&gt;
+&lt;p&gt;This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in aHoisting. This policy is not applicable to any information collected offline or via channels other than this website.&lt;/p&gt;
+&lt;h2&gt;Consent&lt;/h2&gt;
+&lt;p&gt;By using our website, you hereby consent to our Privacy Policy and agree to its terms.&lt;/p&gt;
+&lt;h2&gt;Information we collect&lt;/h2&gt;
+&lt;p&gt;The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.&lt;/p&gt;
+&lt;p&gt;If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.&lt;/p&gt;
+&lt;p&gt;When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number.&lt;/p&gt;
+&lt;h2&gt;How we use your information&lt;/h2&gt;
+&lt;p&gt;We use the information we collect in various ways, including to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Provide, operate, and maintain our webste&lt;/li&gt;
+&lt;li&gt;Improve, personalize, and expand our webste&lt;/li&gt;
+&lt;li&gt;Understand and analyze how you use our webste&lt;/li&gt;
+&lt;li&gt;Develop new products, services, features, and functionality&lt;/li&gt;
+&lt;li&gt;Communicate with you, either directly or through one of our partners, including for customer service, to - provide you with updates and other information relating to the webste, and for marketing and promotional purposes Send you emails&lt;/li&gt;
+&lt;li&gt;Find and prevent fraud&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Log Files&lt;/h2&gt;
+&lt;p&gt;aHoisting follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services’ analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users’ movement on the website, and gathering demographic information.&lt;/p&gt;
+&lt;h2&gt;Google DoubleClick DART Cookie&lt;/h2&gt;
+&lt;p&gt;Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to &lt;a href=&quot;http://www.website.com&quot;&gt;www.website.com&lt;/a&gt; and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL – &lt;a href=&quot;https://policies.google.com/technologies/ads&quot;&gt;https://policies.google.com/technologies/ads&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Our Advertising Partners&lt;/h2&gt;
+&lt;p&gt;Some of advertisers on our site may use cookies and web beacons. Our advertising partners are listed below. Each of our advertising partners has their own Privacy Policy for their policies on user data. For easier access, we hyperlinked to their Privacy Policies below.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Google &lt;a href=&quot;https://policies.google.com/technologies/ads&quot;&gt;https://policies.google.com/technologies/ads&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Advertising Partners Privacy Policies&lt;/h2&gt;
+&lt;p&gt;You may consult this list to find the Privacy Policy for each of the advertising partners of aHoisting.&lt;/p&gt;
+&lt;p&gt;Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on aHoisting, which are sent directly to users’ browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.&lt;/p&gt;
+&lt;p&gt;Note that aHoisting has no access to or control over these cookies that are used by third-party advertisers.&lt;/p&gt;
+&lt;h2&gt;Third Party Privacy Policies&lt;/h2&gt;
+&lt;p&gt;aHoisting’s Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.&lt;/p&gt;
+&lt;p&gt;You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers’ respective websites.&lt;/p&gt;
+&lt;h2&gt;CCPA Privacy Rights (Do Not Sell My Personal Information)&lt;/h2&gt;
+&lt;p&gt;Under the CCPA, among other rights, California consumers have the right to:&lt;/p&gt;
+&lt;p&gt;Request that a business that collects a consumer’s personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.&lt;/p&gt;
+&lt;p&gt;Request that a business delete any personal data about the consumer that a business has collected.&lt;/p&gt;
+&lt;p&gt;Request that a business that sells a consumer’s personal data, not sell the consumer’s personal data.&lt;/p&gt;
+&lt;p&gt;If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.&lt;/p&gt;
+&lt;h2&gt;GDPR Data Protection Rights&lt;/h2&gt;
+&lt;p&gt;We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:&lt;/p&gt;
+&lt;p&gt;The right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service.&lt;/p&gt;
+&lt;p&gt;The right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.&lt;/p&gt;
+&lt;p&gt;The right to erasure – You have the right to request that we erase your personal data, under certain conditions.&lt;/p&gt;
+&lt;p&gt;The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.&lt;/p&gt;
+&lt;p&gt;The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.&lt;/p&gt;
+&lt;p&gt;The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.&lt;/p&gt;
+&lt;p&gt;If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.&lt;/p&gt;
+&lt;h2&gt;Children’s Information&lt;/h2&gt;
+&lt;p&gt;Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.&lt;/p&gt;
+&lt;p&gt;aHoisting does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Terms and Conditions]]></title><description><![CDATA[Welcome to aHoisting! These terms and conditions outline the rules and regulations for the use of aHoisting’s Website, located at https…]]></description><link>https://ahoisting.com/terms-and-conditions/</link><guid isPermaLink="false">https://ahoisting.com/terms-and-conditions/</guid><content:encoded>&lt;p&gt;Welcome to aHoisting!&lt;/p&gt;
 &lt;p&gt;These terms and conditions outline the rules and regulations for the use of aHoisting’s Website, located at &lt;a href=&quot;https://aHoisting.com/&quot;&gt;https://aHoisting.com/&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;By accessing this website we assume you accept these terms and conditions. Do not continue to use aHoisting if you do not agree to take all of the terms and conditions stated on this page.&lt;/p&gt;
 &lt;p&gt;The following terminology appli es to these Terms and Conditions, Privacy Statement and Disclaimer Notice and all Agreements: “Client”, “You” and “Your” refers to you, the person log on this website and compliant to the Company’s terms and conditions. “The Company”, “Ourselves”, “We”, “Our” and “Us”, refers to our Company. “Party”, “Parties”, or “Us”, refers to both the Client and ourselves. All terms refer to the offer, acceptance and consideration of payment necessary to undertake the process of our assistance to the Client in the most appropriate manner for the express purpose of meeting the Client’s needs in respect of provision of the Company’s stated services, in accordance with and subject to, prevailing law of Netherlands. Any use of the above terminology or other words in the singular, plural, capitalization and/or he/she or they, are taken as interchangeable and therefore as referring to same.&lt;/p&gt;
@@ -107,60 +160,158 @@
 &lt;li&gt;limit any of our or your liabilities in any way that is not permitted under applicable law; or&lt;/li&gt;
 &lt;li&gt;exclude any of our or your liabilities that may not be excluded under applicable law. The limitations and prohibitions of liability set in this Section and elsewhere in this disclaimer: (a) are subject to the preceding paragraph; and (b) govern all liabilities arising under the disclaimer, including liabilities arising in contract, in tort and for breach of statutory duty.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;As long as the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Privacy Policy]]></title><description><![CDATA[Welcome to aHoisting! At aHoisting, accessible from https://aHoisting.com/, one of our main priorities is the privacy of our visitors. This…]]></description><link>https://ahoisting.com/privacy-policy/</link><guid isPermaLink="false">https://ahoisting.com/privacy-policy/</guid><content:encoded>&lt;p&gt;Welcome to aHoisting!&lt;/p&gt;
-&lt;p&gt;At aHoisting, accessible from &lt;a href=&quot;https://aHoisting.com/&quot;&gt;https://aHoisting.com/&lt;/a&gt;, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by aHoisting and how we use it.&lt;/p&gt;
-&lt;p&gt;If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.&lt;/p&gt;
-&lt;p&gt;This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in aHoisting. This policy is not applicable to any information collected offline or via channels other than this website.&lt;/p&gt;
-&lt;h2&gt;Consent&lt;/h2&gt;
-&lt;p&gt;By using our website, you hereby consent to our Privacy Policy and agree to its terms.&lt;/p&gt;
-&lt;h2&gt;Information we collect&lt;/h2&gt;
-&lt;p&gt;The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.&lt;/p&gt;
-&lt;p&gt;If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.&lt;/p&gt;
-&lt;p&gt;When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number.&lt;/p&gt;
-&lt;h2&gt;How we use your information&lt;/h2&gt;
-&lt;p&gt;We use the information we collect in various ways, including to:&lt;/p&gt;
+&lt;p&gt;As long as the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to add blank space in react js?]]></title><description><![CDATA[Hi Friends 👋, Welcome To aHoisting! To add blank space in React js, you can use this code  . It will add blank space in react js. Today, I…]]></description><link>https://ahoisting.com/blog/2024-03-23-how-to-add-blank-space-in-react-js/</link><guid isPermaLink="false">https://ahoisting.com/blog/2024-03-23-how-to-add-blank-space-in-react-js/</guid><pubDate>Sat, 23 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hi Friends 👋,&lt;/p&gt;
+&lt;p&gt;Welcome To aHoisting!&lt;/p&gt;
+&lt;p&gt;To add blank space in React js, you can use this code &lt;code class=&quot;language-text&quot;&gt;&amp;lt;React.Fragment&gt;&lt;/code&gt; . It will add blank space in react js.&lt;/p&gt;
+&lt;p&gt;Today, I am going to show you, how to add blank space in react js.&lt;/p&gt;
+&lt;p&gt;Table of contents&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Provide, operate, and maintain our webste&lt;/li&gt;
-&lt;li&gt;Improve, personalize, and expand our webste&lt;/li&gt;
-&lt;li&gt;Understand and analyze how you use our webste&lt;/li&gt;
-&lt;li&gt;Develop new products, services, features, and functionality&lt;/li&gt;
-&lt;li&gt;Communicate with you, either directly or through one of our partners, including for customer service, to - provide you with updates and other information relating to the webste, and for marketing and promotional purposes Send you emails&lt;/li&gt;
-&lt;li&gt;Find and prevent fraud&lt;/li&gt;
+&lt;li&gt;Install and create a new React app.&lt;/li&gt;
+&lt;li&gt;Import react component.&lt;/li&gt;
+&lt;li&gt;Create a Component.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Log Files&lt;/h2&gt;
-&lt;p&gt;aHoisting follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services’ analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users’ movement on the website, and gathering demographic information.&lt;/p&gt;
-&lt;h2&gt;Google DoubleClick DART Cookie&lt;/h2&gt;
-&lt;p&gt;Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to &lt;a href=&quot;http://www.website.com&quot;&gt;www.website.com&lt;/a&gt; and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL – &lt;a href=&quot;https://policies.google.com/technologies/ads&quot;&gt;https://policies.google.com/technologies/ads&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;Our Advertising Partners&lt;/h2&gt;
-&lt;p&gt;Some of advertisers on our site may use cookies and web beacons. Our advertising partners are listed below. Each of our advertising partners has their own Privacy Policy for their policies on user data. For easier access, we hyperlinked to their Privacy Policies below.&lt;/p&gt;
+&lt;p&gt;Let’s start with the first step.&lt;/p&gt;
+&lt;h3&gt;Step 1: Install and create a new React app.&lt;/h3&gt;
+&lt;p&gt;First you have to install the React project. You should use &lt;code class=&quot;language-text&quot;&gt;create-react-app&lt;/code&gt; command to create a new React project.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;npx create&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;react&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;app my&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;app
+cd my&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;app
+npm start&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Step 2: Import react component.&lt;/h3&gt;
+&lt;p&gt;After installing, you have to import your React component. To do this, add the following line to the top of your component file.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; React &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;react&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Step 3: Create a Component..&lt;/h3&gt;
+&lt;p&gt;you can use &lt;code class=&quot;language-text&quot;&gt;&amp;lt;React.Fragment&gt;&lt;/code&gt; and add black space in react js.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;p&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;aHoisting&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;p&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;React&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Fragment&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+        &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos; &apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;token comment&quot;&gt;/* Space here */&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;React&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Fragment&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;p&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;aHoisting&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;p&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Define the blank space example.&lt;/h3&gt;
+&lt;p&gt;The below code is an example of a React. You have to import &lt;code class=&quot;language-text&quot;&gt;React&lt;/code&gt;. and use &lt;code class=&quot;language-text&quot;&gt;&amp;lt;React.Fragment&gt;&lt;/code&gt; to add blank space in react js.&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;App.js&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; React &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;react&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;MyComponent&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;p&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;aHoisting&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;p&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;React&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Fragment&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+        &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos; &apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;token comment&quot;&gt;/* Space here */&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;React&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Fragment&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;p&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;aHoisting&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;p&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;default&lt;/span&gt; MyComponent&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;In the above code example, I have used the &lt;code class=&quot;language-text&quot;&gt;react&lt;/code&gt; component and add blank space in react js.&lt;/p&gt;
+&lt;p&gt;Check the output of the above code example.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 509px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3f692a4fba541beafdd0a249a977552d/0bd2e/add-blank-space.webp&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 41.77215189873418%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADwAgCdASoUAAgAPtFUo0uoJKMhsAgBABoJaQAAetCIAAD+8pyfqTMwAAAAAA==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;React, add, blank, space&quot;
+        title=&quot;React, add, blank, space&quot;
+        src=&quot;/static/3f692a4fba541beafdd0a249a977552d/0bd2e/add-blank-space.webp&quot;
+        srcset=&quot;/static/3f692a4fba541beafdd0a249a977552d/81b7c/add-blank-space.webp 158w,
+/static/3f692a4fba541beafdd0a249a977552d/6ea66/add-blank-space.webp 315w,
+/static/3f692a4fba541beafdd0a249a977552d/0bd2e/add-blank-space.webp 509w&quot;
+        sizes=&quot;(max-width: 509px) 100vw, 509px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;All the best 👍&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to add background color in react?]]></title><description><![CDATA[Hi Friends 👋, Welcome To aHoisting! To add background color in React js, you can use . It will add background color in react js. Today, I…]]></description><link>https://ahoisting.com/blog/2024-03-20-how-to-add-background-color-in-react/</link><guid isPermaLink="false">https://ahoisting.com/blog/2024-03-20-how-to-add-background-color-in-react/</guid><pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hi Friends 👋,&lt;/p&gt;
+&lt;p&gt;Welcome To aHoisting!&lt;/p&gt;
+&lt;p&gt;To add background color in React js, you can use &lt;code class=&quot;language-text&quot;&gt;style={{ backgroundColor: &apos;pink&apos; }}&lt;/code&gt;. It will add background color in react js.&lt;/p&gt;
+&lt;p&gt;Today, I am going to show you, how to add background color in react js.&lt;/p&gt;
+&lt;p&gt;Table of contents&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Google &lt;a href=&quot;https://policies.google.com/technologies/ads&quot;&gt;https://policies.google.com/technologies/ads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Install and create a new React app.&lt;/li&gt;
+&lt;li&gt;Import react component.&lt;/li&gt;
+&lt;li&gt;Create a Component.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Advertising Partners Privacy Policies&lt;/h2&gt;
-&lt;p&gt;You may consult this list to find the Privacy Policy for each of the advertising partners of aHoisting.&lt;/p&gt;
-&lt;p&gt;Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on aHoisting, which are sent directly to users’ browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.&lt;/p&gt;
-&lt;p&gt;Note that aHoisting has no access to or control over these cookies that are used by third-party advertisers.&lt;/p&gt;
-&lt;h2&gt;Third Party Privacy Policies&lt;/h2&gt;
-&lt;p&gt;aHoisting’s Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.&lt;/p&gt;
-&lt;p&gt;You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers’ respective websites.&lt;/p&gt;
-&lt;h2&gt;CCPA Privacy Rights (Do Not Sell My Personal Information)&lt;/h2&gt;
-&lt;p&gt;Under the CCPA, among other rights, California consumers have the right to:&lt;/p&gt;
-&lt;p&gt;Request that a business that collects a consumer’s personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.&lt;/p&gt;
-&lt;p&gt;Request that a business delete any personal data about the consumer that a business has collected.&lt;/p&gt;
-&lt;p&gt;Request that a business that sells a consumer’s personal data, not sell the consumer’s personal data.&lt;/p&gt;
-&lt;p&gt;If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.&lt;/p&gt;
-&lt;h2&gt;GDPR Data Protection Rights&lt;/h2&gt;
-&lt;p&gt;We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:&lt;/p&gt;
-&lt;p&gt;The right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service.&lt;/p&gt;
-&lt;p&gt;The right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.&lt;/p&gt;
-&lt;p&gt;The right to erasure – You have the right to request that we erase your personal data, under certain conditions.&lt;/p&gt;
-&lt;p&gt;The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.&lt;/p&gt;
-&lt;p&gt;The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.&lt;/p&gt;
-&lt;p&gt;The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.&lt;/p&gt;
-&lt;p&gt;If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.&lt;/p&gt;
-&lt;h2&gt;Children’s Information&lt;/h2&gt;
-&lt;p&gt;Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.&lt;/p&gt;
-&lt;p&gt;aHoisting does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to make mui table with no data found in react js?]]></title><description><![CDATA[Hi Friends 👋, Welcome To aHoisting! To make mui table with no data found in React js, you can use this code  . It will make mui table with…]]></description><link>https://ahoisting.com/blog/2024-03-15-how-to-make-mui-table-with-no-data-found-in-react-js/</link><guid isPermaLink="false">https://ahoisting.com/blog/2024-03-15-how-to-make-mui-table-with-no-data-found-in-react-js/</guid><pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hi Friends 👋,&lt;/p&gt;
+&lt;p&gt;Let’s start with the first step.&lt;/p&gt;
+&lt;h3&gt;Step 1: Install and create a new React app.&lt;/h3&gt;
+&lt;p&gt;First you have to install the React project. You should use &lt;code class=&quot;language-text&quot;&gt;create-react-app&lt;/code&gt; command to create a new React project.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;npx create&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;react&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;app my&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;app
+cd my&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;app
+npm start&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Step 2: Import react component.&lt;/h3&gt;
+&lt;p&gt;After installing, you have to import your React component. To do this, add the following line to the top of your component file.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; React &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;react&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Step 3: Create a Component.&lt;/h3&gt;
+&lt;p&gt;You can use inline css &lt;code class=&quot;language-text&quot;&gt;style={{ backgroundColor: &apos;pink&apos; }}&lt;/code&gt; then add background color in react js.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div style&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;token literal-property property&quot;&gt;backgroundColor&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;pink&apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+ aHoisting
+&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Define the background color example.&lt;/h3&gt;
+&lt;p&gt;The below code is an example of a background color. You have to import &lt;code class=&quot;language-text&quot;&gt;React&lt;/code&gt;. and use &lt;code class=&quot;language-text&quot;&gt;style={{ backgroundColor: &apos;pink&apos; }}&lt;/code&gt; to add background color in react js.&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;App.js&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; React &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;react&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token function-variable function&quot;&gt;BackgroundColor&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div style&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;token literal-property property&quot;&gt;backgroundColor&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;pink&apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+      aHoisting
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;default&lt;/span&gt; BackgroundColor&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;In the above code example, I have used the &lt;code class=&quot;language-text&quot;&gt;React&lt;/code&gt; component and add background color in react js.&lt;/p&gt;
+&lt;p&gt;Check the output of the above code example.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ddf66a0061dcb18d2d2623c121f901fc/d33d4/add-background-color.webp&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 20.88607594936709%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADwAgCdASoUAAQAPtFWpEuoJKOhsAgBABoJaQAAeuwKgAD+8pK+cMHy6NJXgFwSHn4KgAAA&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;React, add, background, color&quot;
+        title=&quot;React, add, background, color&quot;
+        src=&quot;/static/ddf66a0061dcb18d2d2623c121f901fc/8aab1/add-background-color.webp&quot;
+        srcset=&quot;/static/ddf66a0061dcb18d2d2623c121f901fc/81b7c/add-background-color.webp 158w,
+/static/ddf66a0061dcb18d2d2623c121f901fc/6ea66/add-background-color.webp 315w,
+/static/ddf66a0061dcb18d2d2623c121f901fc/8aab1/add-background-color.webp 630w,
+/static/ddf66a0061dcb18d2d2623c121f901fc/a70f5/add-background-color.webp 945w,
+/static/ddf66a0061dcb18d2d2623c121f901fc/4ef06/add-background-color.webp 1260w,
+/static/ddf66a0061dcb18d2d2623c121f901fc/d33d4/add-background-color.webp 1320w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;All the best 👍&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to make mui table with no data found in react js?]]></title><description><![CDATA[Hi Friends 👋, Welcome To aHoisting! To make mui table with no data found in React js, you can use this code  . It will make mui table with…]]></description><link>https://ahoisting.com/blog/2024-03-15-how-to-make-mui-table-with-no-data-found-in-react-js/</link><guid isPermaLink="false">https://ahoisting.com/blog/2024-03-15-how-to-make-mui-table-with-no-data-found-in-react-js/</guid><pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hi Friends 👋,&lt;/p&gt;
 &lt;p&gt;Welcome To aHoisting!&lt;/p&gt;
 &lt;p&gt;To make mui table with no data found in React js, you can use this code &lt;code class=&quot;language-text&quot;&gt;data.length &gt; 0&lt;/code&gt; . It will make mui table with no data found in react js.&lt;/p&gt;
 &lt;p&gt;Today, I am going to show you, how to make mui table with no data found in react js.&lt;/p&gt;
