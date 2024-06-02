@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Glass RSS Feed]]></title><description><![CDATA[A solid grasp of hoisting is essential for any JavaScript developer.]]></description><link>https://ahoisting.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 26 May 2024 04:38:15 GMT</lastBuildDate><item><title><![CDATA[About Mee]]></title><description><![CDATA[Hey there, what’s up? aHoisting is a tech blog created with the sole purpose of explaining complex tech in a simple and concise way thus…]]></description><link>https://ahoisting.com/about/</link><guid isPermaLink="false">https://ahoisting.com/about/</guid><content:encoded>&lt;h1&gt;Hey there, what’s up?&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Glass RSS Feed]]></title><description><![CDATA[A solid grasp of hoisting is essential for any JavaScript developer.]]></description><link>https://ahoisting.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 02 Jun 2024 08:13:38 GMT</lastBuildDate><item><title><![CDATA[About Mee]]></title><description><![CDATA[Hey there, what’s up? aHoisting is a tech blog created with the sole purpose of explaining complex tech in a simple and concise way thus…]]></description><link>https://ahoisting.com/about/</link><guid isPermaLink="false">https://ahoisting.com/about/</guid><content:encoded>&lt;h1&gt;Hey there, what’s up?&lt;/h1&gt;
 &lt;p&gt;aHoisting is a tech blog created with the sole purpose of explaining complex tech in a simple and concise way thus creating value for budding developers out there.&lt;/p&gt;
 &lt;p&gt;Here you will find blogs on the latest tech, tutorials on programming languages, explanations to data structure and algorithm concepts and questions, and much more… So stay tuned!!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Contact Me]]></title><description><![CDATA[Get in Touch. If you’ve got an inquiry for a job or project,drop me a line at hello@hello.com or fill the form right here.]]></description><link>https://ahoisting.com/contact/</link><guid isPermaLink="false">https://ahoisting.com/contact/</guid><content:encoded>&lt;h1&gt;Get in Touch.&lt;/h1&gt;
 &lt;p&gt;If you’ve got an inquiry for a job or project,drop me a line at &lt;a href=&quot;mailto:hello@hello.com&quot;&gt;hello@hello.com&lt;/a&gt; or fill the form right here.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Disclaimer]]></title><description><![CDATA[Welcome to aHoisting! All the information on this website - https://aHoisting.com/ - is published in good faith and for general information…]]></description><link>https://ahoisting.com/disclaimer/</link><guid isPermaLink="false">https://ahoisting.com/disclaimer/</guid><content:encoded>&lt;p&gt;Welcome to aHoisting!&lt;/p&gt;
@@ -160,7 +160,783 @@
 &lt;li&gt;limit any of our or your liabilities in any way that is not permitted under applicable law; or&lt;/li&gt;
 &lt;li&gt;exclude any of our or your liabilities that may not be excluded under applicable law. The limitations and prohibitions of liability set in this Section and elsewhere in this disclaimer: (a) are subject to the preceding paragraph; and (b) govern all liabilities arising under the disclaimer, including liabilities arising in contract, in tort and for breach of statutory duty.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;As long as the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to add divider in react js?]]></title><description><![CDATA[Hi Friends 👋, Welcome To aHoisting! To add divider in react js, you can use . It will add divider in react js. Today, I am going to show…]]></description><link>https://ahoisting.com/blog/2024-05-23-how-to-add-divider-in-react-js/</link><guid isPermaLink="false">https://ahoisting.com/blog/2024-05-23-how-to-add-divider-in-react-js/</guid><pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hi Friends 👋,&lt;/p&gt;
+&lt;p&gt;As long as the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to add font size in react js?]]></title><description><![CDATA[Hi Friends 👋, Welcome To aHoisting! To add font size in react js, you can set  in . It will add font size in react js. Today, I am going to…]]></description><link>https://ahoisting.com/blog/2024-05-31-how-to-add-font-size-in-react-js/</link><guid isPermaLink="false">https://ahoisting.com/blog/2024-05-31-how-to-add-font-size-in-react-js/</guid><pubDate>Fri, 31 May 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hi Friends 👋,&lt;/p&gt;
+&lt;p&gt;Welcome To aHoisting!&lt;/p&gt;
+&lt;p&gt;To add font size in react js, you can set &lt;code class=&quot;language-text&quot;&gt;font-size: 36px;&lt;/code&gt; in &lt;code class=&quot;language-text&quot;&gt;.large-text&lt;/code&gt;. It will add font size in react js.&lt;/p&gt;
+&lt;p&gt;Today, I am going to show you, how to add font size in react js.&lt;/p&gt;
+&lt;p&gt;Table of contents&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Install and create a new React app.&lt;/li&gt;
+&lt;li&gt;Import react component.&lt;/li&gt;
+&lt;li&gt;Create a Component.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let’s start with the first step.&lt;/p&gt;
+&lt;h3&gt;Step 1: Install and create a new React app.&lt;/h3&gt;
+&lt;p&gt;First you have to install the React project. You should use &lt;code class=&quot;language-text&quot;&gt;create-react-app&lt;/code&gt; command to create a new React project.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;npx create&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;react&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;app my&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;app
+cd my&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;app
+npm start&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Step 2: Import react component.&lt;/h3&gt;
+&lt;p&gt;After installing, you have to import your React component. To do this, add the following line to the top of your component file.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; React &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;react&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;./App.css&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Step 3: Create a Component.&lt;/h3&gt;
+&lt;p&gt;You can use &lt;code class=&quot;language-text&quot;&gt;className=&quot;large-text&quot;&lt;/code&gt; to add font size in react js.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;h1 className&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;large-text&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;This is a large text&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;h1&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;p className&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;small-text&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;This is a smaller text&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;p&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Define the add font size example.&lt;/h3&gt;
+&lt;p&gt;The below code is an example of a React. You have to import &lt;code class=&quot;language-text&quot;&gt;&apos;./App.css&apos;&lt;/code&gt; and set &lt;code class=&quot;language-text&quot;&gt;font-size: 36px;&lt;/code&gt; in &lt;code class=&quot;language-text&quot;&gt;.large-text&lt;/code&gt; to add font size in react js.&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;App.js&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; React &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;react&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;./App.css&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;App&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;h1 className&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;large-text&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;This is a large text&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;h1&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;p className&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;small-text&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;This is a smaller text&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;p&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;default&lt;/span&gt; App&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;css&quot;&gt;&lt;pre class=&quot;language-css&quot;&gt;&lt;code class=&quot;language-css&quot;&gt; &lt;span class=&quot;token comment&quot;&gt;/* src/App.css */&lt;/span&gt;
+&lt;span class=&quot;token selector&quot;&gt;.large-text&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;font-size&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 36px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+  
+  &lt;span class=&quot;token selector&quot;&gt;.small-text&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;font-size&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 18px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+  &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;In the above code example, I have used the &lt;code class=&quot;language-text&quot;&gt;font-size: 36px;&lt;/code&gt; and add font size in react js.&lt;/p&gt;
+&lt;p&gt;Check the output of the above code example.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 425px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b3742e86808555cd4dac0ad27489771a/8dc4f/font-size.webp&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 72.15189873417721%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAACwAwCdASoUAA4APtFWpUwoJKOiMAgBABoJYwCdH8ADAfv4RDL8mADLT5akC7YSMWvQBK5Uw2v0jRRSMOJoYUtHCMB0nKxqE1YoadDmjijT6xW45h0gQAAA&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;React, add, font size&quot;
+        title=&quot;React, add, font size&quot;
+        src=&quot;/static/b3742e86808555cd4dac0ad27489771a/8dc4f/font-size.webp&quot;
+        srcset=&quot;/static/b3742e86808555cd4dac0ad27489771a/81b7c/font-size.webp 158w,
+/static/b3742e86808555cd4dac0ad27489771a/6ea66/font-size.webp 315w,
+/static/b3742e86808555cd4dac0ad27489771a/8dc4f/font-size.webp 425w&quot;
+        sizes=&quot;(max-width: 425px) 100vw, 425px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;All the best 👍&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to add font color in react js?]]></title><description><![CDATA[Hi Friends 👋, Welcome To aHoisting! To add font color in react js, you can set  in . It will add font color in react js. Today, I am going…]]></description><link>https://ahoisting.com/blog/2024-05-30-how-to-add-font-color-in-react-js/</link><guid isPermaLink="false">https://ahoisting.com/blog/2024-05-30-how-to-add-font-color-in-react-js/</guid><pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hi Friends 👋,&lt;/p&gt;
+&lt;p&gt;Welcome To aHoisting!&lt;/p&gt;
+&lt;p&gt;To add font color in react js, you can set &lt;code class=&quot;language-text&quot;&gt;color: blue;&lt;/code&gt; in &lt;code class=&quot;language-text&quot;&gt;.blue-text&lt;/code&gt;. It will add font color in react js.&lt;/p&gt;
+&lt;p&gt;Today, I am going to show you, how to add font color in react js.&lt;/p&gt;
+&lt;p&gt;Table of contents&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Install and create a new React app.&lt;/li&gt;
+&lt;li&gt;Import react component.&lt;/li&gt;
+&lt;li&gt;Create a Component.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let’s start with the first step.&lt;/p&gt;
+&lt;h3&gt;Step 1: Install and create a new React app.&lt;/h3&gt;
+&lt;p&gt;First you have to install the React project. You should use &lt;code class=&quot;language-text&quot;&gt;create-react-app&lt;/code&gt; command to create a new React project.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;npx create&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;react&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;app my&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;app
+cd my&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;app
+npm start&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Step 2: Import react component.&lt;/h3&gt;
+&lt;p&gt;After installing, you have to import your React component. To do this, add the following line to the top of your component file.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; React &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;react&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;./App.css&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Step 3: Create a Component.&lt;/h3&gt;
+&lt;p&gt;You can set &lt;code class=&quot;language-text&quot;&gt;color: blue;&lt;/code&gt; in &lt;code class=&quot;language-text&quot;&gt;.blue-text&lt;/code&gt; to add font color in react js.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;h1 className&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;blue-text&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;This is a blue color&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;h1&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;p className&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;green-text&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;This is a green color&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;p&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Define the add font color example.&lt;/h3&gt;
+&lt;p&gt;The below code is an example of a React. You have to import &lt;code class=&quot;language-text&quot;&gt;&apos;./App.css&apos;&lt;/code&gt; and set &lt;code class=&quot;language-text&quot;&gt;color: blue;&lt;/code&gt; in &lt;code class=&quot;language-text&quot;&gt;.blue-text&lt;/code&gt; to add font color in react js.&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;App.js&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; React &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;react&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;./App.css&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;App&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;h1 className&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;blue-text&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;This is a blue color&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;h1&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;p className&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;green-text&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;This is a green color&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;p&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;default&lt;/span&gt; App&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;App.css&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;css&quot;&gt;&lt;pre class=&quot;language-css&quot;&gt;&lt;code class=&quot;language-css&quot;&gt;&lt;span class=&quot;token selector&quot;&gt;.blue-text&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; blue&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+  &lt;span class=&quot;token selector&quot;&gt;.green-text&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; green&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;In the above code example, I have used the &lt;code class=&quot;language-text&quot;&gt;color: blue;&lt;/code&gt; and add font color in react js.&lt;/p&gt;
+&lt;p&gt;Check the output of the above code example.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 402px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/7f17cec814f3fbb5f472862086e868f1/56632/font-color.webp&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACwAwCdASoUAAwAPtFWo0uoJKMhsAgBABoJQBOl65A7ir2zK9rTAADypwmuwkuXNCa6UQ8YV+nO7pZoRoksXaxZDp2Nz82NRirQWS5YkU/nT9bpyNbbMjAfR5miim7foZ27AAAA&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;React, add, font color&quot;
+        title=&quot;React, add, font color&quot;
+        src=&quot;/static/7f17cec814f3fbb5f472862086e868f1/56632/font-color.webp&quot;
+        srcset=&quot;/static/7f17cec814f3fbb5f472862086e868f1/81b7c/font-color.webp 158w,
+/static/7f17cec814f3fbb5f472862086e868f1/6ea66/font-color.webp 315w,
+/static/7f17cec814f3fbb5f472862086e868f1/56632/font-color.webp 402w&quot;
+        sizes=&quot;(max-width: 402px) 100vw, 402px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;All the best 👍&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to add floating text in react js?]]></title><description><![CDATA[Hi Friends 👋, Welcome To aHoisting! To add floating text in react js, you can use . It will add floating text in react js. Today, I am…]]></description><link>https://ahoisting.com/blog/2024-05-29-how-to-add-floating-text-in-react-js/</link><guid isPermaLink="false">https://ahoisting.com/blog/2024-05-29-how-to-add-floating-text-in-react-js/</guid><pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hi Friends 👋,&lt;/p&gt;
+&lt;p&gt;Welcome To aHoisting!&lt;/p&gt;
+&lt;p&gt;To add floating text in react js, you can use &lt;code class=&quot;language-text&quot;&gt;transform: translate(-50%, -50%) translateY(0);&lt;/code&gt;. It will add floating text in react js.&lt;/p&gt;
+&lt;p&gt;Today, I am going to show you, how to add floating text in react js.&lt;/p&gt;
+&lt;p&gt;Table of contents&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Install and create a new React app.&lt;/li&gt;
+&lt;li&gt;Import react component.&lt;/li&gt;
+&lt;li&gt;Create a Component.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let’s start with the first step.&lt;/p&gt;
+&lt;h3&gt;Step 1: Install and create a new React app.&lt;/h3&gt;
+&lt;p&gt;First you have to install the React project. You should use &lt;code class=&quot;language-text&quot;&gt;create-react-app&lt;/code&gt; command to create a new React project.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;npx create&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;react&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;app my&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;app
+cd my&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;app
+npm start&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Step 2: Import react component.&lt;/h3&gt;
+&lt;p&gt;After installing, you have to import your React component. To do this, add the following line to the top of your component file.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; React &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;react&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; FloatingText &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;./FloatingText&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;./FloatingText.css&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Step 3: Create a Component.&lt;/h3&gt;
+&lt;p&gt;You can use &lt;code class=&quot;language-text&quot;&gt;&amp;lt;FloatingText text=&quot;Floating Text Example&quot; /&gt;&lt;/code&gt; to add floating text in react js.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;FloatingText text&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;Floating Text Example&quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Define the add floating text example.&lt;/h3&gt;
+&lt;p&gt;The below code is an example of a React. You have to import &lt;code class=&quot;language-text&quot;&gt;./FloatingText&lt;/code&gt; and use &lt;code class=&quot;language-text&quot;&gt;@keyframes float&lt;/code&gt; to add floating text in react js.&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;App.js&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; React &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;react&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; FloatingText &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;./FloatingText&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;App&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div className&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;App&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;FloatingText text&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;Floating Text Example&quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;default&lt;/span&gt; App&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;./FloatingText.js&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; React &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;react&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;./FloatingText.css&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token function-variable function&quot;&gt;FloatingText&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; text &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div className&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;floating-text&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;text&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;default&lt;/span&gt; FloatingText&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;&apos;./FloatingText.css&apos;&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;css&quot;&gt;&lt;pre class=&quot;language-css&quot;&gt;&lt;code class=&quot;language-css&quot;&gt;&lt;span class=&quot;token selector&quot;&gt;.floating-text&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; 
+    &lt;span class=&quot;token property&quot;&gt;position&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; absolute&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;top&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 50%&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 50%&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;transform&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;translate&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;-50%&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; -50%&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;font-size&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 2rem&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;font-weight&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; bold&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; #000&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;animation&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; float 3s ease-in-out infinite&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+  
+  &lt;span class=&quot;token atrule&quot;&gt;&lt;span class=&quot;token rule&quot;&gt;@keyframes&lt;/span&gt; float&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token selector&quot;&gt;0%, 100%&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+      &lt;span class=&quot;token property&quot;&gt;transform&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;translate&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;-50%&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; -50%&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;translateY&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;0&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;token selector&quot;&gt;50%&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+      &lt;span class=&quot;token property&quot;&gt;transform&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;translate&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;-50%&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; -50%&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;translateY&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;-20px&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;In the above code example, I have used the &lt;code class=&quot;language-text&quot;&gt;&amp;lt;FloatingText/&gt;&lt;/code&gt; and add floating text in react js.&lt;/p&gt;
+&lt;p&gt;Check the output of the above code example.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/98c9dd40c41e5151c7b0739bf6c64ea1/ec897/floating-text.webp&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 50.632911392405056%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAABwAwCdASoUAAoAPtFWpkuoJKOhsAgBABoJZwBTAAehzHwxUMAA/u2z70X35+UgO84KzTo0L/OTwMqDMeyPfhFUPiECAAAA&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;React, add, floating text&quot;
+        title=&quot;React, add, floating text&quot;
+        src=&quot;/static/98c9dd40c41e5151c7b0739bf6c64ea1/8aab1/floating-text.webp&quot;
+        srcset=&quot;/static/98c9dd40c41e5151c7b0739bf6c64ea1/81b7c/floating-text.webp 158w,
+/static/98c9dd40c41e5151c7b0739bf6c64ea1/6ea66/floating-text.webp 315w,
+/static/98c9dd40c41e5151c7b0739bf6c64ea1/8aab1/floating-text.webp 630w,
+/static/98c9dd40c41e5151c7b0739bf6c64ea1/a70f5/floating-text.webp 945w,
+/static/98c9dd40c41e5151c7b0739bf6c64ea1/4ef06/floating-text.webp 1260w,
+/static/98c9dd40c41e5151c7b0739bf6c64ea1/ec897/floating-text.webp 1366w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;All the best 👍&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to add flag icon in react js?]]></title><description><![CDATA[Hi Friends 👋, Welcome To aHoisting! To add flag icon in react js, you can use . It will add flag icon in react js. Today, I am going to…]]></description><link>https://ahoisting.com/blog/2024-05-29-how-to-add-flag-icon-in-react-js/</link><guid isPermaLink="false">https://ahoisting.com/blog/2024-05-29-how-to-add-flag-icon-in-react-js/</guid><pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hi Friends 👋,&lt;/p&gt;
+&lt;p&gt;Welcome To aHoisting!&lt;/p&gt;
+&lt;p&gt;To add flag icon in react js, you can use &lt;code class=&quot;language-text&quot;&gt;&amp;lt;Flag code=&quot;IND&quot; height=&quot;16&quot; /&gt;&lt;/code&gt;. It will add flag icon in react js.&lt;/p&gt;
+&lt;p&gt;Today, I am going to show you, how to add flag icon in react js.&lt;/p&gt;
+&lt;h2&gt;Installation&lt;/h2&gt;
+&lt;p&gt;Install the following packages to use flag icon in react js.&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;npm&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;npm install react&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;world&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;flags
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;yarn&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;yarn add react&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;world&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;flags
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Table of contents&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Install and create a new React app.&lt;/li&gt;
+&lt;li&gt;Import react component.&lt;/li&gt;
+&lt;li&gt;Create a Component.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let’s start with the first step.&lt;/p&gt;
+&lt;h3&gt;Step 1: Install and create a new React app.&lt;/h3&gt;
+&lt;p&gt;First you have to install the React project. You should use &lt;code class=&quot;language-text&quot;&gt;create-react-app&lt;/code&gt; command to create a new React project.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;npx create&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;react&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;app my&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;app
+cd my&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;app
+npm start&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Step 2: Import react component.&lt;/h3&gt;
+&lt;p&gt;After installing, you have to import your React component. To do this, add the following line to the top of your component file.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; React &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;react&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; Flag &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;react-world-flags&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Step 3: Create a Component.&lt;/h3&gt;
+&lt;p&gt;You can use &lt;code class=&quot;language-text&quot;&gt;&amp;lt;Flag code=&quot;IND&quot; height=&quot;16&quot; /&gt;&lt;/code&gt; to add flag icon in react js.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;h3&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;Country Flag&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;h3&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;Flag code&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;IND&quot;&lt;/span&gt; height&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;16&quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Define the add flag icon example.&lt;/h3&gt;
+&lt;p&gt;The below code is an example of a React. You have to import &lt;code class=&quot;language-text&quot;&gt;&apos;react-world-flags&apos;&lt;/code&gt; and use &lt;code class=&quot;language-text&quot;&gt;&amp;lt;Flag code=&quot;IND&quot; height=&quot;16&quot; /&gt;&lt;/code&gt; to add flag icon in react js.&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;App.js&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; React &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;react&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; Flag &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;react-world-flags&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;App&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;h3&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;Country Flag&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;h3&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;Flag code&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;IND&quot;&lt;/span&gt; height&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;16&quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;default&lt;/span&gt; App&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;OR&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; React &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;react&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; IndiaFlag &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;./india.webp&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; 
+
+&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;App&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div className&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;App&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;h1&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;Country Flag&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;h1&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;img src&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;IndiaFlag&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; alt&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;INDIA Flag&quot;&lt;/span&gt; style&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;token literal-property property&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;50px&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token literal-property property&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;auto&apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;default&lt;/span&gt; App&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;In the above code example, I have used the &lt;code class=&quot;language-text&quot;&gt;code=&quot;IND&quot;&lt;/code&gt; and add flag icon in react js.&lt;/p&gt;
+&lt;p&gt;Check the output of the above code example.&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;Flag-icon&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 322px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/d50287ed79c92f8daee0ef577521696f/ce133/flag-icon.webp&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 96.20253164556962%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACwAwCdASoUABMAPtFcpU0oJSOiMBgIAQAaCWUAzYQQ6ceZ+FVXQAD9U/hsMmq3RwWRwSdRx9U2ZDdWX1C3vOLvXpyIPLaA0wsyEGbsnuCcnqAAAAA=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;React, add, flag icon&quot;
+        title=&quot;React, add, flag icon&quot;
+        src=&quot;/static/d50287ed79c92f8daee0ef577521696f/ce133/flag-icon.webp&quot;
+        srcset=&quot;/static/d50287ed79c92f8daee0ef577521696f/81b7c/flag-icon.webp 158w,
+/static/d50287ed79c92f8daee0ef577521696f/6ea66/flag-icon.webp 315w,
+/static/d50287ed79c92f8daee0ef577521696f/ce133/flag-icon.webp 322w&quot;
+        sizes=&quot;(max-width: 322px) 100vw, 322px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;Flag-image&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 367px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/7807879c331a774a43547e6f4c817ffd/ddb01/flag-image.webp&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 71.51898734177216%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADQAwCdASoUAA4APtFUo0uoJKMhsAgBABoJQBOj+ABicQB2anaC5MAAy0+gRMgV2BDHjto/tzQXlfRc20NszshMSmwQwQxr77ACQwebd3DuYFc4DY6xqH6BnQAAAA==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;React, add, flag icon&quot;
+        title=&quot;React, add, flag icon&quot;
+        src=&quot;/static/7807879c331a774a43547e6f4c817ffd/ddb01/flag-image.webp&quot;
+        srcset=&quot;/static/7807879c331a774a43547e6f4c817ffd/81b7c/flag-image.webp 158w,
+/static/7807879c331a774a43547e6f4c817ffd/6ea66/flag-image.webp 315w,
+/static/7807879c331a774a43547e6f4c817ffd/ddb01/flag-image.webp 367w&quot;
+        sizes=&quot;(max-width: 367px) 100vw, 367px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;All the best 👍&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to add figcaption in react js?]]></title><description><![CDATA[Hi Friends 👋, Welcome To aHoisting! To add figcaption in react js, you can use . It will add figcaption in react js. Today, I am going to…]]></description><link>https://ahoisting.com/blog/2024-05-28-how-to-add-figcaption-in-react-js/</link><guid isPermaLink="false">https://ahoisting.com/blog/2024-05-28-how-to-add-figcaption-in-react-js/</guid><pubDate>Tue, 28 May 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hi Friends 👋,&lt;/p&gt;
+&lt;p&gt;Welcome To aHoisting!&lt;/p&gt;
+&lt;p&gt;To add figcaption in react js, you can use &lt;code class=&quot;language-text&quot;&gt;&amp;lt;figcaption&gt;&lt;/code&gt;. It will add figcaption in react js.&lt;/p&gt;
+&lt;p&gt;Today, I am going to show you, how to add figcaption in react js.&lt;/p&gt;
+&lt;p&gt;Table of contents&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Install and create a new React app.&lt;/li&gt;
+&lt;li&gt;Import react component.&lt;/li&gt;
+&lt;li&gt;Create a Component.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let’s start with the first step.&lt;/p&gt;
+&lt;h3&gt;Step 1: Install and create a new React app.&lt;/h3&gt;
+&lt;p&gt;First you have to install the React project. You should use &lt;code class=&quot;language-text&quot;&gt;create-react-app&lt;/code&gt; command to create a new React project.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;npx create&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;react&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;app my&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;app
+cd my&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;app
+npm start&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Step 2: Import react component.&lt;/h3&gt;
+&lt;p&gt;After installing, you have to import your React component. To do this, add the following line to the top of your component file.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; React &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;react&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Step 3: Create a Component.&lt;/h3&gt;
+&lt;p&gt;You can use &lt;code class=&quot;language-text&quot;&gt;&amp;lt;figcaption&gt;&lt;/code&gt; to add figcaption in react js.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;figure&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;img src&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;collection-dry-autumn-leaves.jpg&quot;&lt;/span&gt; alt&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;Placeholder&quot;&lt;/span&gt;  height&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;300&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; width&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;300&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;figcaption&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;This is a placeholder image&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;figcaption&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;figure&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Define the add figcaption example.&lt;/h3&gt;
+&lt;p&gt;The below code is an example of a React. You have to import &lt;code class=&quot;language-text&quot;&gt;react&lt;/code&gt; and use &lt;code class=&quot;language-text&quot;&gt;&amp;lt;figcaption&gt;&lt;/code&gt; to add figcaption in react js.&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;App.js&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; React &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;react&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;ImageWithCaption&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;figure&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;img src&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;collection-dry-autumn-leaves.jpg&quot;&lt;/span&gt; alt&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;Placeholder&quot;&lt;/span&gt;  height&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;300&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; width&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;300&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;figcaption&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;This is a placeholder image&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;figcaption&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;figure&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;default&lt;/span&gt; ImageWithCaption&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;In the above code example, I have used the &lt;code class=&quot;language-text&quot;&gt;&amp;lt;figcaption&gt;&lt;/code&gt; and add figcaption in react js.&lt;/p&gt;
+&lt;p&gt;Check the output of the above code example.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 455px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/da6da653f3681bdf7c6baf5d96fd6c7a/bb998/add-figcaption.webp&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 117.72151898734178%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAADQBACdASoUABgAPtFao00oJSMiKA1RABoJZADCkfqjeAC8JLcXFu3vKKk5PelYAAD+7vGowN7Xwodmu/PeJLj9RY+f4xH/tQyO/fmpwWR22/t7cndRn5wDmZlGwCIcYpCUqxW4fLNutPaYtAjvnKzS9gNaC40/T7Z3yl/Ry0KeOlnu+bjQvH9daPCPGhwCD4g3/EIM27jVZqLVWMZ+fF/O/qJec3o76CazyE0GsZ3KoAAA&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;React, add, figcaption&quot;
+        title=&quot;React, add, figcaption&quot;
+        src=&quot;/static/da6da653f3681bdf7c6baf5d96fd6c7a/bb998/add-figcaption.webp&quot;
+        srcset=&quot;/static/da6da653f3681bdf7c6baf5d96fd6c7a/81b7c/add-figcaption.webp 158w,
+/static/da6da653f3681bdf7c6baf5d96fd6c7a/6ea66/add-figcaption.webp 315w,
+/static/da6da653f3681bdf7c6baf5d96fd6c7a/bb998/add-figcaption.webp 455w&quot;
+        sizes=&quot;(max-width: 455px) 100vw, 455px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;All the best 👍&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to add flaticon icon in react js?]]></title><description><![CDATA[Hi Friends 👋, Welcome To aHoisting! To add flaticon icon in react js, you can use . It will add flaticon icon in react js. Today, I am…]]></description><link>https://ahoisting.com/blog/2024-05-28-how-to-add-flaticon-icon-in-react-js/</link><guid isPermaLink="false">https://ahoisting.com/blog/2024-05-28-how-to-add-flaticon-icon-in-react-js/</guid><pubDate>Tue, 28 May 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hi Friends 👋,&lt;/p&gt;
+&lt;p&gt;Welcome To aHoisting!&lt;/p&gt;
+&lt;p&gt;To add flaticon icon in react js, you can use &lt;code class=&quot;language-text&quot;&gt;svg&lt;/code&gt;. It will add flaticon icon in react js.&lt;/p&gt;
+&lt;p&gt;Today, I am going to show you, how to add flaticon icon in react js.&lt;/p&gt;
+&lt;p&gt;Table of contents&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Install and create a new React app.&lt;/li&gt;
+&lt;li&gt;Import react component.&lt;/li&gt;
+&lt;li&gt;Create a Component.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let’s start with the first step.&lt;/p&gt;
+&lt;h3&gt;Step 1: Install and create a new React app.&lt;/h3&gt;
+&lt;p&gt;First you have to install the React project. You should use &lt;code class=&quot;language-text&quot;&gt;create-react-app&lt;/code&gt; command to create a new React project.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;npx create&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;react&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;app my&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;app
+cd my&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;app
+npm start&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Step 2: Import react component.&lt;/h3&gt;
+&lt;p&gt;After installing, you have to import your React component. To do this, add the following line to the top of your component file.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; React &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;react&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; IconComponent &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;./Icon&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Step 3: Create a Component.&lt;/h3&gt;
+&lt;p&gt;You can use &lt;code class=&quot;language-text&quot;&gt;svg&lt;/code&gt; to add flaticon icon in react js.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;svg height&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;110&quot;&lt;/span&gt; width&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;110&quot;&lt;/span&gt; xmlns&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;http://www.w3.org/2000/svg&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;defs&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;filter id&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;f1&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;feDropShadow dx&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;12&quot;&lt;/span&gt; dy&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;14&quot;&lt;/span&gt; stdDeviation&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;1&quot;&lt;/span&gt; flood&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;opacity&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;0.7&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;filter&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;defs&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;rect width&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;90&quot;&lt;/span&gt; height&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;90&quot;&lt;/span&gt; fill&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;yellow&quot;&lt;/span&gt; filter&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;url(#f1)&quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+ &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;svg&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Define the add flaticon icon example.&lt;/h3&gt;
+&lt;p&gt;The below code is an example of a React. You have to import &lt;code class=&quot;language-text&quot;&gt;./Icon&lt;/code&gt; and use &lt;code class=&quot;language-text&quot;&gt;svg&lt;/code&gt; to add flaticon icon in react js.&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;App.js&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; React &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;react&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; IconComponent &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;./Icon&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;App&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;h1&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;aHoisting&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;h1&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;IconComponent &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;default&lt;/span&gt; App&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;Icon.js&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; React &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;react&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;IconComponent&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;svg height&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;110&quot;&lt;/span&gt; width&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;110&quot;&lt;/span&gt; xmlns&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;http://www.w3.org/2000/svg&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;defs&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;filter id&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;f1&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;feDropShadow dx&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;12&quot;&lt;/span&gt; dy&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;14&quot;&lt;/span&gt; stdDeviation&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;1&quot;&lt;/span&gt; flood&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;opacity&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;0.7&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;filter&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;defs&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;rect width&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;90&quot;&lt;/span&gt; height&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;90&quot;&lt;/span&gt; fill&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;yellow&quot;&lt;/span&gt; filter&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;url(#f1)&quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;svg&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;default&lt;/span&gt; IconComponent&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;In the above code example, I have used the &lt;code class=&quot;language-text&quot;&gt;svg&lt;/code&gt; icon and add flaticon icon in react js.&lt;/p&gt;
+&lt;p&gt;Check the output of the above code example.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 306px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c971ff071a31f3157c579506f0f3761b/3fb41/add-flaticon-icon.webp&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 111.39240506329114%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAACQAwCdASoUABYAPtFcqU2oJSQiKAqpABoJQBjmAiMx/aCpLAfAAPqf5VKvLvoBzMcTvErpnNPqxNxRqGcOFytRSiigqEum4pxWGdf3bN8Mj3Nllo4IPr/f7Qva/POvUYS84Xrmvjv+Q/Pa4ZgAPclCvI8AAA==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;React, add, flaticon icon&quot;
+        title=&quot;React, add, flaticon icon&quot;
+        src=&quot;/static/c971ff071a31f3157c579506f0f3761b/3fb41/add-flaticon-icon.webp&quot;
+        srcset=&quot;/static/c971ff071a31f3157c579506f0f3761b/81b7c/add-flaticon-icon.webp 158w,
+/static/c971ff071a31f3157c579506f0f3761b/3fb41/add-flaticon-icon.webp 306w&quot;
+        sizes=&quot;(max-width: 306px) 100vw, 306px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;All the best 👍&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to add fa fa icon in react js?]]></title><description><![CDATA[Hi Friends 👋, Welcome To aHoisting! To add fa fa icon in react js, you can install  and . It will add fa fa icon in react js. Today, I am…]]></description><link>https://ahoisting.com/blog/2024-05-27-how-to-add-fa-fa-icon-in-react-js/</link><guid isPermaLink="false">https://ahoisting.com/blog/2024-05-27-how-to-add-fa-fa-icon-in-react-js/</guid><pubDate>Mon, 27 May 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hi Friends 👋,&lt;/p&gt;
+&lt;p&gt;Welcome To aHoisting!&lt;/p&gt;
+&lt;p&gt;To add fa fa icon in react js, you can install &lt;code class=&quot;language-text&quot;&gt;&apos;@fortawesome/react-fontawesome&apos;&lt;/code&gt; and &lt;code class=&quot;language-text&quot;&gt;@fortawesome/free-solid-svg-icons&lt;/code&gt;. It will add fa fa icon in react js.&lt;/p&gt;
+&lt;p&gt;Today, I am going to show you, how to add fa fa icon in react js.&lt;/p&gt;
+&lt;h2&gt;Installation&lt;/h2&gt;
+&lt;p&gt;Install the following packages to use fa fa icon in react js.&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;npm&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;npm install @fortawesome&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;react&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;fontawesome
+
+npm install @fortawesome&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;free&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;solid&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;svg&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;icons
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;yarn&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;yarn add @fortawesome&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;react&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;fontawesome
+
+npm install @fortawesome&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;free&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;solid&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;svg&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;icons
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Table of contents&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Install and create a new React app.&lt;/li&gt;
+&lt;li&gt;Import react component.&lt;/li&gt;
+&lt;li&gt;Create a Component.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let’s start with the first step.&lt;/p&gt;
+&lt;h3&gt;Step 1: Install and create a new React app.&lt;/h3&gt;
+&lt;p&gt;First you have to install the React project. You should use &lt;code class=&quot;language-text&quot;&gt;create-react-app&lt;/code&gt; command to create a new React project.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;npx create&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;react&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;app my&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;app
+cd my&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;app
+npm start&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Step 2: Import react component.&lt;/h3&gt;
+&lt;p&gt;After installing, you have to import your React component. To do this, add the following line to the top of your component file.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; React &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;react&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; FontAwesomeIcon &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;@fortawesome/react-fontawesome&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; faBook &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;@fortawesome/free-solid-svg-icons&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Step 3: Create a Component.&lt;/h3&gt;
+&lt;p&gt;You can use &lt;code class=&quot;language-text&quot;&gt;FontAwesomeIcon&lt;/code&gt; to add fa fa icon in react js.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;FontAwesomeIcon icon&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;faBook&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Define the add fa fa icon example.&lt;/h3&gt;
+&lt;p&gt;The below code is an example of a React. You have to import &lt;code class=&quot;language-text&quot;&gt;@fortawesome/free-solid-svg-icons&apos;&lt;/code&gt; and use &lt;code class=&quot;language-text&quot;&gt;icon={faBook}&lt;/code&gt; to add fa fa icon in react js.&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;App.js&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; React &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;react&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; FontAwesomeIcon &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;@fortawesome/react-fontawesome&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; faBook &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;@fortawesome/free-solid-svg-icons&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token function-variable function&quot;&gt;BookIcon&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;
+  &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;FontAwesomeIcon icon&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;faBook&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;default&lt;/span&gt; BookIcon&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;In the above code example, I have used the &lt;code class=&quot;language-text&quot;&gt;icon={faBook}&lt;/code&gt; and add fa fa icon in react js.&lt;/p&gt;
+&lt;p&gt;Check the output of the above code example.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 341px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e38e40909f0b61bdd0cbd65d7f29a2c7/5af35/fa-fa-icon.webp&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 79.11392405063292%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAABQAwCdASoUABAAPtFYpkwoJSOiMAgBABoJQBYdhDwp4+RqUAD7pe3UdUKCe46o0ADEttjpzGqWQaIETJQMCzd9qLgAAA==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;React, add, fa, fa, icon&quot;
+        title=&quot;React, add, fa, fa, icon&quot;
+        src=&quot;/static/e38e40909f0b61bdd0cbd65d7f29a2c7/5af35/fa-fa-icon.webp&quot;
+        srcset=&quot;/static/e38e40909f0b61bdd0cbd65d7f29a2c7/81b7c/fa-fa-icon.webp 158w,
+/static/e38e40909f0b61bdd0cbd65d7f29a2c7/6ea66/fa-fa-icon.webp 315w,
+/static/e38e40909f0b61bdd0cbd65d7f29a2c7/5af35/fa-fa-icon.webp 341w&quot;
+        sizes=&quot;(max-width: 341px) 100vw, 341px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;All the best 👍&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to add fieldset in react js?]]></title><description><![CDATA[Hi Friends 👋, Welcome To aHoisting! To add fieldset in react js, you can use . It will add fieldset in react js. Today, I am going to show…]]></description><link>https://ahoisting.com/blog/2024-05-27-how-to-add-fieldset-in-react-js/</link><guid isPermaLink="false">https://ahoisting.com/blog/2024-05-27-how-to-add-fieldset-in-react-js/</guid><pubDate>Mon, 27 May 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hi Friends 👋,&lt;/p&gt;
+&lt;p&gt;Welcome To aHoisting!&lt;/p&gt;
+&lt;p&gt;To add fieldset in react js, you can use &lt;code class=&quot;language-text&quot;&gt;&amp;lt;fieldset&gt;&lt;/code&gt;. It will add fieldset in react js.&lt;/p&gt;
+&lt;p&gt;Today, I am going to show you, how to add fieldset in react js.&lt;/p&gt;
+&lt;p&gt;Table of contents&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Install and create a new React app.&lt;/li&gt;
+&lt;li&gt;Import react component.&lt;/li&gt;
+&lt;li&gt;Create a Component.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let’s start with the first step.&lt;/p&gt;
+&lt;h3&gt;Step 1: Install and create a new React app.&lt;/h3&gt;
+&lt;p&gt;First you have to install the React project. You should use &lt;code class=&quot;language-text&quot;&gt;create-react-app&lt;/code&gt; command to create a new React project.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;npx create&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;react&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;app my&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;app
+cd my&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;app
+npm start&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Step 2: Import react component.&lt;/h3&gt;
+&lt;p&gt;After installing, you have to import your React component. To do this, add the following line to the top of your component file.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; React &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;react&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Step 3: Create a Component.&lt;/h3&gt;
+&lt;p&gt;You can use &lt;code class=&quot;language-text&quot;&gt;&amp;lt;fieldset&gt;&lt;/code&gt; to add fieldset in react js.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;form&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;fieldset&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+   &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;legend&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;Personal Information&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;legend&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;label htmlFor&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;Name&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;label&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;input type&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;text&quot;&lt;/span&gt; id&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;name&quot;&lt;/span&gt; name&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;name&quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;label htmlFor&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;email&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;Email&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;label&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;input type&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;email&quot;&lt;/span&gt; id&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;email&quot;&lt;/span&gt; name&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;email&quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;label htmlFor&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;age&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;Age&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;label&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;input type&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;number&quot;&lt;/span&gt; id&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;age&quot;&lt;/span&gt; name&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;age&quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;fieldset&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;fieldset&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;legend&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;Account Information&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;legend&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+        &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;label htmlFor&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;username&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;Username&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;label&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+        &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;input type&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;text&quot;&lt;/span&gt; id&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;username&quot;&lt;/span&gt; name&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;username&quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+        &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;label htmlFor&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;password&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;Password&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;label&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+        &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;input type&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;password&quot;&lt;/span&gt; id&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;password&quot;&lt;/span&gt; name&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;password&quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;fieldset&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;button type&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;submit&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;Submit&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;button&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;form&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Define the add fieldset example.&lt;/h3&gt;
+&lt;p&gt;The below code is an example of a React. You have to import &lt;code class=&quot;language-text&quot;&gt;react&lt;/code&gt; and use &lt;code class=&quot;language-text&quot;&gt;&amp;lt;fieldset&gt;&lt;/code&gt; to add fieldset in react js.&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;App.js&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;
+&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; React &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;react&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;App&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;form&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;fieldset&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+        &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;legend&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;Personal Information&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;legend&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+        &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+          &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;label htmlFor&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;Name&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;label&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+          &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;input type&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;text&quot;&lt;/span&gt; id&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;name&quot;&lt;/span&gt; name&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;name&quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+        &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+        &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+          &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;label htmlFor&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;email&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;Email&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;label&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+          &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;input type&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;email&quot;&lt;/span&gt; id&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;email&quot;&lt;/span&gt; name&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;email&quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+        &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+        &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+          &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;label htmlFor&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;age&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;Age&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;label&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+          &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;input type&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;number&quot;&lt;/span&gt; id&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;age&quot;&lt;/span&gt; name&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;age&quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+        &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;fieldset&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+      
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;fieldset&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+        &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;legend&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;Account Information&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;legend&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+        &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+          &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;label htmlFor&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;username&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;Username&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;label&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+          &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;input type&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;text&quot;&lt;/span&gt; id&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;username&quot;&lt;/span&gt; name&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;username&quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+        &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+        &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+          &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;label htmlFor&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;password&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;Password&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;label&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+          &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;input type&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;password&quot;&lt;/span&gt; id&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;password&quot;&lt;/span&gt; name&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;password&quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+        &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;fieldset&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;button type&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;submit&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;Submit&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;button&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;form&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;default&lt;/span&gt; App&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;In the above code example, I have used the &lt;code class=&quot;language-text&quot;&gt;&amp;lt;fieldset&gt;&lt;/code&gt; and add fieldset in react js.&lt;/p&gt;
+&lt;p&gt;Check the output of the above code example.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/56a37e1c399a4a2fb054e42f102bb165/ec897/fieldset.webp&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 25.316455696202528%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADwAgCdASoUAAUALplotFoiqCgoCACYSzgCmAB6IBXx0AD+86/kitac6+HL89QhfnApmXAA&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;React, add, fieldset&quot;
+        title=&quot;React, add, fieldset&quot;
+        src=&quot;/static/56a37e1c399a4a2fb054e42f102bb165/8aab1/fieldset.webp&quot;
+        srcset=&quot;/static/56a37e1c399a4a2fb054e42f102bb165/81b7c/fieldset.webp 158w,
+/static/56a37e1c399a4a2fb054e42f102bb165/6ea66/fieldset.webp 315w,
+/static/56a37e1c399a4a2fb054e42f102bb165/8aab1/fieldset.webp 630w,
+/static/56a37e1c399a4a2fb054e42f102bb165/a70f5/fieldset.webp 945w,
+/static/56a37e1c399a4a2fb054e42f102bb165/4ef06/fieldset.webp 1260w,
+/static/56a37e1c399a4a2fb054e42f102bb165/ec897/fieldset.webp 1366w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;All the best 👍&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to add divider in react js?]]></title><description><![CDATA[Hi Friends 👋, Welcome To aHoisting! To add divider in react js, you can use . It will add divider in react js. Today, I am going to show…]]></description><link>https://ahoisting.com/blog/2024-05-23-how-to-add-divider-in-react-js/</link><guid isPermaLink="false">https://ahoisting.com/blog/2024-05-23-how-to-add-divider-in-react-js/</guid><pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hi Friends 👋,&lt;/p&gt;
 &lt;p&gt;Welcome To aHoisting!&lt;/p&gt;
 &lt;p&gt;To add divider in react js, you can use &lt;code class=&quot;language-text&quot;&gt;&amp;lt;hr&gt;&lt;/code&gt;. It will add divider in react js.&lt;/p&gt;
 &lt;p&gt;Today, I am going to show you, how to add divider in react js.&lt;/p&gt;
