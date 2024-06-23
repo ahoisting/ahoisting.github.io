@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Glass RSS Feed]]></title><description><![CDATA[A solid grasp of hoisting is essential for any JavaScript developer.]]></description><link>https://ahoisting.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 16 Jun 2024 13:40:24 GMT</lastBuildDate><item><title><![CDATA[About Mee]]></title><description><![CDATA[Hey there, what’s up? aHoisting is a tech blog created with the sole purpose of explaining complex tech in a simple and concise way thus…]]></description><link>https://ahoisting.com/about/</link><guid isPermaLink="false">https://ahoisting.com/about/</guid><content:encoded>&lt;h1&gt;Hey there, what’s up?&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Glass RSS Feed]]></title><description><![CDATA[A solid grasp of hoisting is essential for any JavaScript developer.]]></description><link>https://ahoisting.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 23 Jun 2024 11:48:39 GMT</lastBuildDate><item><title><![CDATA[About Mee]]></title><description><![CDATA[Hey there, what’s up? aHoisting is a tech blog created with the sole purpose of explaining complex tech in a simple and concise way thus…]]></description><link>https://ahoisting.com/about/</link><guid isPermaLink="false">https://ahoisting.com/about/</guid><content:encoded>&lt;h1&gt;Hey there, what’s up?&lt;/h1&gt;
 &lt;p&gt;aHoisting is a tech blog created with the sole purpose of explaining complex tech in a simple and concise way thus creating value for budding developers out there.&lt;/p&gt;
 &lt;p&gt;Here you will find blogs on the latest tech, tutorials on programming languages, explanations to data structure and algorithm concepts and questions, and much more… So stay tuned!!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Contact Me]]></title><description><![CDATA[Get in Touch. If you’ve got an inquiry for a job or project,drop me a line at hello@hello.com or fill the form right here.]]></description><link>https://ahoisting.com/contact/</link><guid isPermaLink="false">https://ahoisting.com/contact/</guid><content:encoded>&lt;h1&gt;Get in Touch.&lt;/h1&gt;
 &lt;p&gt;If you’ve got an inquiry for a job or project,drop me a line at &lt;a href=&quot;mailto:hello@hello.com&quot;&gt;hello@hello.com&lt;/a&gt; or fill the form right here.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Disclaimer]]></title><description><![CDATA[Welcome to aHoisting! All the information on this website - https://aHoisting.com/ - is published in good faith and for general information…]]></description><link>https://ahoisting.com/disclaimer/</link><guid isPermaLink="false">https://ahoisting.com/disclaimer/</guid><content:encoded>&lt;p&gt;Welcome to aHoisting!&lt;/p&gt;
@@ -160,7 +160,167 @@
 &lt;li&gt;limit any of our or your liabilities in any way that is not permitted under applicable law; or&lt;/li&gt;
 &lt;li&gt;exclude any of our or your liabilities that may not be excluded under applicable law. The limitations and prohibitions of liability set in this Section and elsewhere in this disclaimer: (a) are subject to the preceding paragraph; and (b) govern all liabilities arising under the disclaimer, including liabilities arising in contract, in tort and for breach of statutory duty.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;As long as the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to add google map in react js?]]></title><description><![CDATA[Hi Friends 👋, Welcome To aHoisting! To add google map in react js, you can use . It will add google map in react js. Today, I am going to…]]></description><link>https://ahoisting.com/blog/2024-06-12-how-to-add-google-map-in-react-js/</link><guid isPermaLink="false">https://ahoisting.com/blog/2024-06-12-how-to-add-google-map-in-react-js/</guid><pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hi Friends 👋,&lt;/p&gt;
+&lt;p&gt;As long as the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to add greater than symbol in react js?]]></title><description><![CDATA[Hi Friends 👋, Welcome To aHoisting! To add greater than symbol in react js, you can use . It will add greater than symbol in react js…]]></description><link>https://ahoisting.com/blog/2024-06-23-how-to-add-greater-than-symbol-in-react-js/</link><guid isPermaLink="false">https://ahoisting.com/blog/2024-06-23-how-to-add-greater-than-symbol-in-react-js/</guid><pubDate>Sun, 23 Jun 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hi Friends 👋,&lt;/p&gt;
+&lt;p&gt;Welcome To aHoisting!&lt;/p&gt;
+&lt;p&gt;To add greater than symbol in react js, you can use &lt;code class=&quot;language-text&quot;&gt;&amp;amp;gt;&lt;/code&gt;. It will add greater than symbol in react js.&lt;/p&gt;
+&lt;p&gt;Today, I am going to show you, how to add greater than symbol in react js.&lt;/p&gt;
+&lt;p&gt;Table of contents&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Install and create a new React app.&lt;/li&gt;
+&lt;li&gt;Import react component.&lt;/li&gt;
+&lt;li&gt;Create a Component.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let’s start with the first step.&lt;/p&gt;
+&lt;h3&gt;Step 1: Install and create a new React app.&lt;/h3&gt;
+&lt;p&gt;First you have to install the React project. You should use &lt;code class=&quot;language-text&quot;&gt;create-react-app&lt;/code&gt; command to create a new React project.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;npx create&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;react&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;app my&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;app
+cd my&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;app
+npm start&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Step 2: Import react component.&lt;/h3&gt;
+&lt;p&gt;After installing, you have to import your React component. To do this, add the following line to the top of your component file.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; React &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;react&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Step 3: Create a Component.&lt;/h3&gt;
+&lt;p&gt;You can use &lt;code class=&quot;language-text&quot;&gt;&amp;amp;gt;&lt;/code&gt; to add greater than symbol in react js.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token number&quot;&gt;5&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;&amp;amp;&lt;/span&gt;gt&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;3&lt;/span&gt;
+&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Define the add greater than symbol example.&lt;/h3&gt;
+&lt;p&gt;The below code is an example of a React. You have to import &lt;code class=&quot;language-text&quot;&gt;react&lt;/code&gt; and set &lt;code class=&quot;language-text&quot;&gt;&amp;amp;gt;&lt;/code&gt; to add greater than symbol in react js.&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;App.js&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; React &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;react&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;App&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+      &lt;span class=&quot;token number&quot;&gt;5&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;&amp;amp;&lt;/span&gt;gt&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;3&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;default&lt;/span&gt; App&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;In the above code example, I have used the &lt;code class=&quot;language-text&quot;&gt;&amp;amp;gt;&lt;/code&gt; and add greater than symbol in react js.&lt;/p&gt;
+&lt;p&gt;Check the output of the above code.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 446px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e7b30a8422debb4ac6ef03c0755aa1cb/5021b/greater-than-symbol.webp&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 46.835443037974684%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAABwAwCdASoUAAkAPtFWpkuoJKOhsAgBABoJYwCdH8ADA1l/dfoA/eO/MBu5eQGLJWngQMbTdNQWPjybi4kArSoZl9SBAAAA&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;React, add, greater, than, symbol&quot;
+        title=&quot;React, add, greater, than, symbol&quot;
+        src=&quot;/static/e7b30a8422debb4ac6ef03c0755aa1cb/5021b/greater-than-symbol.webp&quot;
+        srcset=&quot;/static/e7b30a8422debb4ac6ef03c0755aa1cb/81b7c/greater-than-symbol.webp 158w,
+/static/e7b30a8422debb4ac6ef03c0755aa1cb/6ea66/greater-than-symbol.webp 315w,
+/static/e7b30a8422debb4ac6ef03c0755aa1cb/5021b/greater-than-symbol.webp 446w&quot;
+        sizes=&quot;(max-width: 446px) 100vw, 446px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;All the best 👍&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to add glowing text in react js?]]></title><description><![CDATA[Hi Friends 👋, Welcome To aHoisting! To add glowing text in react js, you can use . It will add glowing text in react js. Today, I am going…]]></description><link>https://ahoisting.com/blog/2024-06-22-how-to-add-glowing-text-in-react-js/</link><guid isPermaLink="false">https://ahoisting.com/blog/2024-06-22-how-to-add-glowing-text-in-react-js/</guid><pubDate>Sat, 22 Jun 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hi Friends 👋,&lt;/p&gt;
+&lt;p&gt;Welcome To aHoisting!&lt;/p&gt;
+&lt;p&gt;To add glowing text in react js, you can use &lt;code class=&quot;language-text&quot;&gt;animation: glow 1.5s infinite alternate;&lt;/code&gt;. It will add glowing text in react js.&lt;/p&gt;
+&lt;p&gt;Today, I am going to show you, how to add glowing text in react js.&lt;/p&gt;
+&lt;p&gt;Table of contents&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Install and create a new React app.&lt;/li&gt;
+&lt;li&gt;Import react component.&lt;/li&gt;
+&lt;li&gt;Create a Component.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let’s start with the first step.&lt;/p&gt;
+&lt;h3&gt;Step 1: Install and create a new React app.&lt;/h3&gt;
+&lt;p&gt;First you have to install the React project. You should use &lt;code class=&quot;language-text&quot;&gt;create-react-app&lt;/code&gt; command to create a new React project.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;npx create&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;react&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;app my&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;app
+cd my&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;app
+npm start&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Step 2: Import react component.&lt;/h3&gt;
+&lt;p&gt;After installing, you have to import your React component. To do this, add the following line to the top of your component file.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; React &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;react&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;./App.css&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Step 3: Create a Component.&lt;/h3&gt;
+&lt;p&gt;You can use &lt;code class=&quot;language-text&quot;&gt;className=&quot;glowing-text-dynamic&quot;&lt;/code&gt; to add glowing text in react js.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div className&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;glowing-text-dynamic&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+   aHoisting Dynamic Glowing Text
+&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Define the add glowing text example.&lt;/h3&gt;
+&lt;p&gt;The below code is an example of a React. You have to import &lt;code class=&quot;language-text&quot;&gt;./App.css&lt;/code&gt; and set &lt;code class=&quot;language-text&quot;&gt;animation: glow 1.5s infinite alternate;&lt;/code&gt; to add glowing text in react js.&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;App.js&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; React &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;react&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;./App.css&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;App&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div className&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;glowing-text-dynamic&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    aHoisting Dynamic Glowing Text
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;default&lt;/span&gt; App&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;App.css&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;css&quot;&gt;&lt;pre class=&quot;language-css&quot;&gt;&lt;code class=&quot;language-css&quot;&gt;&lt;span class=&quot;token selector&quot;&gt;.glowing-text-dynamic&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token property&quot;&gt;font-size&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 2rem&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;token property&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; #fff&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;token property&quot;&gt;text-shadow&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 0 0 5px #0ff&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; 0 0 10px #0ff&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; 0 0 20px #0ff&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;token property&quot;&gt;animation&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; glow 1.5s infinite alternate&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token atrule&quot;&gt;&lt;span class=&quot;token rule&quot;&gt;@keyframes&lt;/span&gt; glow&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token selector&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;text-shadow&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 0 0 5px #0ff&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; 0 0 10px #0ff&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; 0 0 20px #0ff&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+  &lt;span class=&quot;token selector&quot;&gt;to&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;text-shadow&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 0 0 10px #0ff&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; 0 0 20px #0ff&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; 0 0 40px #0ff&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; 0 0 80px #0ff&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;In the above code example, I have used the &lt;code class=&quot;language-text&quot;&gt;@keyframes glow&lt;/code&gt; and add glowing text in react js.&lt;/p&gt;
+&lt;p&gt;Check the output of the above code.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3ef158721b5553d00e25fe900c1170c9/59680/glowing-text.webp&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 34.177215189873415%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAACwAwCdASoUAAcAPtFcpkyoJSOiMAgBABoJYwCdH8ADA1m3QxEqAAD+sj+/1IQHQ4fNt2seV0NqmeN0dA3hzUIa5+Ai4AAA&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;React, add, glowing, text&quot;
+        title=&quot;React, add, glowing, text&quot;
+        src=&quot;/static/3ef158721b5553d00e25fe900c1170c9/8aab1/glowing-text.webp&quot;
+        srcset=&quot;/static/3ef158721b5553d00e25fe900c1170c9/81b7c/glowing-text.webp 158w,
+/static/3ef158721b5553d00e25fe900c1170c9/6ea66/glowing-text.webp 315w,
+/static/3ef158721b5553d00e25fe900c1170c9/8aab1/glowing-text.webp 630w,
+/static/3ef158721b5553d00e25fe900c1170c9/59680/glowing-text.webp 632w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;All the best 👍&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to add google map in react js?]]></title><description><![CDATA[Hi Friends 👋, Welcome To aHoisting! To add google map in react js, you can use . It will add google map in react js. Today, I am going to…]]></description><link>https://ahoisting.com/blog/2024-06-12-how-to-add-google-map-in-react-js/</link><guid isPermaLink="false">https://ahoisting.com/blog/2024-06-12-how-to-add-google-map-in-react-js/</guid><pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hi Friends 👋,&lt;/p&gt;
 &lt;p&gt;Welcome To aHoisting!&lt;/p&gt;
 &lt;p&gt;To add google map in react js, you can use &lt;code class=&quot;language-text&quot;&gt;&amp;lt;iframe&gt;&lt;/code&gt;. It will add google map in react js.&lt;/p&gt;
 &lt;p&gt;Today, I am going to show you, how to add google map in react js.&lt;/p&gt;
